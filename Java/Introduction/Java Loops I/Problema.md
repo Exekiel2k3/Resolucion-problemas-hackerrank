@@ -1,1 +1,1 @@
-https://www.hackerrank.com/challenges/java-loops-i/submissions
+https://www.hackerrank.com/challenges/java-loops-i
